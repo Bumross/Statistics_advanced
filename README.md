@@ -11,6 +11,9 @@ Repozitář obsahuje implementace jednoduché a vícenásobné regrese v Pythonu
   
 2. [**Vícenásobná regrese**](#vícenásobná-regrese)
 
+
+3. [**Logistická regrese**](#vícenásobná-regrese)
+
 ---
 
 ## Podpora
